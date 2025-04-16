@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\frmtokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\frmtokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\frmtokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\frmtokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\jwt\\tokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\jwt\\tokenvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\jwt\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\jwt\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|c:\\github\\webtokenprojesi\\webtokenprojesi\\webtokenprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{988B4C11-6120-4C6A-A781-D85767BD37A0}|WebTokenProjesi\\WebTokenProjesi.csproj|solutionrelative:webtokenprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmTokenGenerator.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\FrmTokenGenerator.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmTokenGenerator.cs*",
+              "RelativeToolTip": "WebTokenProjesi\\FrmTokenGenerator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:15:24.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmEmployee.cs",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmEmployee.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\FrmEmployee.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmEmployee.cs*",
+              "RelativeToolTip": "WebTokenProjesi\\FrmEmployee.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAIA5wBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:39:25.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmLogin.cs",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\FrmLogin.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmLogin.cs*",
+              "RelativeToolTip": "WebTokenProjesi\\FrmLogin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:41:23.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmEmployee.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\FrmEmployee.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmEmployee.cs [Design]*",
+              "RelativeToolTip": "WebTokenProjesi\\FrmEmployee.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:38:37.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTokenGenerator.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmTokenGenerator.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\FrmTokenGenerator.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmTokenGenerator.cs [Design]*",
+              "RelativeToolTip": "WebTokenProjesi\\FrmTokenGenerator.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:38:50.405Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\FrmLogin.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\FrmLogin.cs [Design]*",
+              "RelativeToolTip": "WebTokenProjesi\\FrmLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:38:08.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenValidator.cs",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\JWT\\TokenValidator.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\JWT\\TokenValidator.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\JWT\\TokenValidator.cs*",
+              "RelativeToolTip": "WebTokenProjesi\\JWT\\TokenValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:37:31.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\JWT\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\JWT\\TokenGenerator.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\JWT\\TokenGenerator.cs",
+              "RelativeToolTip": "WebTokenProjesi\\JWT\\TokenGenerator.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:37:19.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\Program.cs",
+              "RelativeDocumentMoniker": "WebTokenProjesi\\Program.cs",
+              "ToolTip": "C:\\Github\\WebTokenProjesi\\WebTokenProjesi\\WebTokenProjesi\\Program.cs",
+              "RelativeToolTip": "WebTokenProjesi\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAMwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:38:10.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
